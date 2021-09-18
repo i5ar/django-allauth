@@ -210,7 +210,7 @@ msgstr "Non hai ancora verificato il tuo indirizzo e-mail."
 
 #: socialaccount/apps.py:7
 msgid "Social Accounts"
-msgstr "Account"
+msgstr "Account Social"
 
 #: socialaccount/models.py:41 socialaccount/models.py:84
 msgid "provider"
@@ -266,11 +266,11 @@ msgstr "dati aggiuntivi"
 
 #: socialaccount/models.py:113
 msgid "social account"
-msgstr ""
+msgstr "account social"
 
 #: socialaccount/models.py:114
 msgid "social accounts"
-msgstr ""
+msgstr "account social"
 
 #: socialaccount/models.py:139
 msgid "token"
